@@ -1,4 +1,4 @@
-name: testp
+name: test
 steps:
   - name: build
     type: BUILD
